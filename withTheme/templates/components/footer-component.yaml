@@ -1,0 +1,4 @@
+title: footer-component
+renderType: freemarker
+templateScript: /withTheme/templates/components/footer-component.ftl
+dialog: withTheme:components/footer-component

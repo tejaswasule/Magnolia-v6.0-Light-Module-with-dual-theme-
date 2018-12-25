@@ -15,4 +15,4 @@ Step 5 : Import 'website.index.xml' to root '/' of website (workspace category) 
 
 Step 6 : Then go to Apps ==>Site==>Theme node then change attribute name to 'main-theme' or 'another-theme'
 
-Step 7 : Follow step 6 to change the theme again.
+Step 7 : Folow step 6 to change the theme again.

@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" sv:name="index">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>mgnl:page</sv:value>
+  </sv:property>
+  <sv:property sv:name="jcr:uuid" sv:type="String">
+    <sv:value>a2c840cd-0cf8-4b0c-9b0f-e4e89381689c</sv:value>
+  </sv:property>
+  <sv:property sv:name="hideInNav" sv:type="Boolean">
+    <sv:value>false</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:created" sv:type="Date">
+    <sv:value>2018-12-25T16:35:33.510+05:30</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:createdBy" sv:type="String">
+    <sv:value>superuser</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+    <sv:value>2018-12-25T21:24:21.689+05:30</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+    <sv:value>superuser</sv:value>
+  </sv:property>
+  <sv:property sv:name="mgnl:template" sv:type="String">
+    <sv:value>withTheme:pages/main-template</sv:value>
+  </sv:property>
+  <sv:property sv:name="navigationTitle" sv:type="String">
+    <sv:value>index</sv:value>
+  </sv:property>
+  <sv:property sv:name="title" sv:type="String">
+    <sv:value>Eclerx | Home</sv:value>
+  </sv:property>
+  <sv:property sv:name="windowTitle" sv:type="String">
+    <sv:value>Eclerx | Home</sv:value>
+  </sv:property>
+  <sv:node sv:name="main">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:area</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>e6d83f57-3fa6-4d9c-8222-f0eb9b300162</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2018-12-25T16:35:41.326+05:30</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2018-12-25T16:35:41.326+05:30</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="contentArea">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:area</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>1546c334-befa-437d-a9a5-100793445160</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2018-12-25T16:35:41.997+05:30</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2018-12-25T16:35:41.997+05:30</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+  </sv:node>
+  <sv:node sv:name="navigationArea">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:area</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>b5555db5-6063-4634-a379-ff4768d9ed25</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2018-12-25T16:35:42.349+05:30</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2018-12-25T21:12:48.621+05:30</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:node sv:name="0">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:component</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>0c7cd393-7dec-42a7-8d1e-71e7e2ddca94</sv:value>
+      </sv:property>
+      <sv:property sv:name="desc" sv:type="String">
+        <sv:value>&lt;p&gt;&lt;br /&gt;
+&lt;a href="https://eclerx.com/about-eclerx/" target="_blank"&gt;ABOUT ECLERX&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://eclerx.com/divisions/" target="_blank"&gt;DIVISIONS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://eclerx.com/investor-relations/" target="_blank"&gt;INVESTOR RELATION&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://careers.eclerx.com/UI/Index.aspx" target="_blank"&gt;CAREERS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://eclerx.com/news-media/" target="_blank"&gt;NEWS &amp;amp; MEDIA&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://eclerx.com/contact-us/" target="_blank"&gt;CONTACT US&lt;/a&gt;&lt;/p&gt;
+</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2018-12-25T16:54:55.865+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2018-12-25T21:12:48.621+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:template" sv:type="String">
+        <sv:value>withTheme:components/navigation-component</sv:value>
+      </sv:property>
+      <sv:property sv:name="option" sv:type="String">
+        <sv:value>a</sv:value>
+      </sv:property>
+      <sv:property sv:name="title" sv:type="String">
+        <sv:value>Navigation</sv:value>
+      </sv:property>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="footerArea">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:area</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>288a703e-fa80-41b2-a2e3-19ba04ba6afc</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2018-12-25T16:35:42.564+05:30</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2018-12-25T19:30:35.288+05:30</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:node sv:name="0">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:component</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>38308fe7-8122-430a-8a43-e2701465434a</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2018-12-25T16:56:00.715+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2018-12-25T19:30:35.288+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:template" sv:type="String">
+        <sv:value>withTheme:components/footer-component</sv:value>
+      </sv:property>
+      <sv:property sv:name="option" sv:type="String">
+        <sv:value>a</sv:value>
+      </sv:property>
+      <sv:property sv:name="title" sv:type="String">
+        <sv:value>® 2018 eClerx, All rights reserved | Cookie Policy | Privacy Policy</sv:value>
+      </sv:property>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="headerArea">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:area</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>e6c54438-33f0-4757-96af-32a417931de3</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2018-12-25T16:35:42.783+05:30</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2018-12-25T19:34:48.811+05:30</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:node sv:name="0">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:component</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>e2ed7dda-a7a6-49df-b9cd-f0c47e7d9c17</sv:value>
+      </sv:property>
+      <sv:property sv:name="caption" sv:type="String">
+        <sv:value>Eclerx Logo</sv:value>
+      </sv:property>
+      <sv:property sv:name="image" sv:type="String">
+        <sv:value>jcr:fec4d87d-12dc-48b0-8795-d3e085e3e8e4</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2018-12-25T16:54:38.277+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2018-12-25T19:34:48.811+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:template" sv:type="String">
+        <sv:value>withTheme:components/header-component</sv:value>
+      </sv:property>
+      <sv:property sv:name="option" sv:type="String">
+        <sv:value>a</sv:value>
+      </sv:property>
+      <sv:property sv:name="title" sv:type="String">
+        <sv:value>Header</sv:value>
+      </sv:property>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="articlesArea">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:area</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>387ec563-1a46-42f6-9120-4188fa7a8b7b</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2018-12-25T16:35:42.987+05:30</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2018-12-25T20:29:40.299+05:30</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:node sv:name="0">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:component</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>66f95324-5fbe-4eee-98af-232e45c30282</sv:value>
+      </sv:property>
+      <sv:property sv:name="desc" sv:type="String">
+        <sv:value>&lt;p&gt;&lt;strong&gt;A primer of what AI is and what it is not&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;How many digital marketing professionals understand the nuances and different types of A.I.? During this webinar, Arvind Thinagarajan, eClerx Digital&amp;rsquo;s Head of Advanced Analytics, describes the 5 most common categories of Artificial Intelligence (Robotic Process Automation, Machine Learning, Natural Language, Computer Vision, Reality) as well as give examples of ideal situations for each technique. This webinar meant for those who have heard these terms but are unsure of their meaning or how AI can be applied to their business processes.&lt;/p&gt;
+
+&lt;p&gt;Attendees will learn:&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;What is A.I.?&lt;/li&gt;
+	&lt;li&gt;What it isn&amp;rsquo;t?&lt;/li&gt;
+	&lt;li&gt;What are some buzzwords associated with A.I.?&lt;/li&gt;
+	&lt;li&gt;Examples, case studies and demos&lt;/li&gt;
+&lt;/ul&gt;
+</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2018-12-25T16:55:10.251+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2018-12-25T20:23:23.808+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:template" sv:type="String">
+        <sv:value>withTheme:components/article-component</sv:value>
+      </sv:property>
+      <sv:property sv:name="option" sv:type="String">
+        <sv:value>a</sv:value>
+      </sv:property>
+      <sv:property sv:name="title" sv:type="String">
+        <sv:value>On-Demand Webinar: Demystifying Artificial Intelligence</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="00">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:component</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>0cd30726-93f2-4224-808f-96e8ca3b0dd2</sv:value>
+      </sv:property>
+      <sv:property sv:name="desc" sv:type="String">
+        <sv:value>&lt;p&gt;All businesses want to grow sales beyond their initial client bases. The most important factor: a positive customer experience. It&amp;rsquo;s critical to a company&amp;rsquo;s brand and, ultimately, its bottom line. But old ways of engaging are failing &amp;mdash; with the proliferation of technology and devices, the customer is smarter and more powerful. They now decide when and how they want to interact. Macro trends such as social, mobile, cloud, big data and IoT are forging a new era of engagement and consumers are ultimately far more disruptive than the technology itself. How will you help your customers &amp;mdash; and your own firm &amp;mdash; connect?&lt;/p&gt;
+
+&lt;p&gt;In this on-demand webcast, Salesforce Global Customer Growth and Innovation Evangelist and Growth IQ author, Tiffani Bova, addresses how companies of all sizes can create new business practices that leverage technology to strengthen customer relationships and accelerate sales and growth. Hear actionable takeaways on how to create a customer-centric business and long-lasting brand loyalty.&lt;/p&gt;
+</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2018-12-25T16:55:30.157+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2018-12-25T20:25:34.753+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:template" sv:type="String">
+        <sv:value>withTheme:components/article-component</sv:value>
+      </sv:property>
+      <sv:property sv:name="option" sv:type="String">
+        <sv:value>a</sv:value>
+      </sv:property>
+      <sv:property sv:name="title" sv:type="String">
+        <sv:value>On-Demand Webcast Customer Experience is The New Competitive Differentiator</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="01">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:component</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>407f70b6-bd9c-4385-b01d-dd06e726dec3</sv:value>
+      </sv:property>
+      <sv:property sv:name="desc" sv:type="String">
+        <sv:value>&lt;p&gt;Account-based marketing has inspired a new-found desire to personalize messaging to high-value accounts. This on-demand webcast hosted by the American Marketing session shows how to source relevant account data, use that data to create target personas, and deploy a personalization campaign across multiple channels.&lt;/p&gt;
+</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2018-12-25T20:27:46.026+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2018-12-25T20:27:46.026+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:template" sv:type="String">
+        <sv:value>withTheme:components/article-component</sv:value>
+      </sv:property>
+      <sv:property sv:name="title" sv:type="String">
+        <sv:value>Webinar - A Holistic Approach to B2B Personalization</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="02">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:component</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>63c61250-7b1f-4677-8ef3-ddc3993a6065</sv:value>
+      </sv:property>
+      <sv:property sv:name="desc" sv:type="String">
+        <sv:value>&lt;p&gt;&lt;strong&gt;By Stephen H. Yu&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Analytics are complicated, but hiring analysts shouldn&amp;rsquo;t be. You encounter many &amp;ldquo;experts&amp;rdquo; who are great at moving data around without actionable insights and call themselves scientists. How can you avoid hiring Analytics Posers? This kinetic typography video helps you identify posers, so you don&amp;rsquo;t fall into the trap of hiring one.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6 Signs of Analytics Posers:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;1. Love Buzzwords&lt;/p&gt;
+
+&lt;p&gt;2. Over Promise/ Under-deliver&lt;/p&gt;
+
+&lt;p&gt;3. Are One Trick Ponies&lt;/p&gt;
+
+&lt;p&gt;4. Toolset Oriented&lt;/p&gt;
+
+&lt;p&gt;5. Salesy&lt;/p&gt;
+
+&lt;p&gt;6. Complicators&lt;/p&gt;
+
+&lt;p&gt;Bottom line:&lt;br /&gt;
+You are looking for someone who can demonstrate their capabilities, not just talk about them.&lt;/p&gt;
+</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2018-12-25T20:29:40.325+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2018-12-25T20:29:40.325+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:template" sv:type="String">
+        <sv:value>withTheme:components/article-component</sv:value>
+      </sv:property>
+      <sv:property sv:name="title" sv:type="String">
+        <sv:value>DON'T HIRE ANALYTICS POSERS</sv:value>
+      </sv:property>
+    </sv:node>
+  </sv:node>
+  <sv:node sv:name="advertisingArea">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>mgnl:area</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>b0601e9c-2fe9-4f1a-94bf-9f50ee7605b0</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2018-12-25T16:35:43.160+05:30</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2018-12-25T21:20:57.993+05:30</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:node sv:name="0">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:component</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>12a2030d-df39-4a6b-adc6-6a0851ebabfa</sv:value>
+      </sv:property>
+      <sv:property sv:name="image" sv:type="String">
+        <sv:value>jcr:00acde2b-1843-440a-8089-56efa7fd34e5</sv:value>
+      </sv:property>
+      <sv:property sv:name="link" sv:type="String">
+        <sv:value>https://www.eclerxdigital.com/2017/10/18/technologies-change-people-dont/</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2018-12-25T16:55:41.671+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2018-12-25T21:08:44.391+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:template" sv:type="String">
+        <sv:value>withTheme:components/advertisement-component</sv:value>
+      </sv:property>
+      <sv:property sv:name="option" sv:type="String">
+        <sv:value>a</sv:value>
+      </sv:property>
+      <sv:property sv:name="title" sv:type="String">
+        <sv:value>add1</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="00">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:component</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>6e58722a-bcb6-4cea-a658-1859f57cd5b8</sv:value>
+      </sv:property>
+      <sv:property sv:name="image" sv:type="String">
+        <sv:value>jcr:09dc80c2-68cd-4378-bc8f-4df5b29c2ffa</sv:value>
+      </sv:property>
+      <sv:property sv:name="link" sv:type="String">
+        <sv:value>https://www.eclerxdigital.com/2018/12/18/seeing-is-believing-for-etail-customer-satisfaction/</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2018-12-25T16:55:51.122+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2018-12-25T21:17:14.377+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:template" sv:type="String">
+        <sv:value>withTheme:components/advertisement-component</sv:value>
+      </sv:property>
+      <sv:property sv:name="option" sv:type="String">
+        <sv:value>a</sv:value>
+      </sv:property>
+      <sv:property sv:name="title" sv:type="String">
+        <sv:value>add2</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="01">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:component</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>6def6d0b-a052-4e83-938c-37f6396b7831</sv:value>
+      </sv:property>
+      <sv:property sv:name="image" sv:type="String">
+        <sv:value>jcr:c4e77942-241d-4569-acb5-3176babf7544</sv:value>
+      </sv:property>
+      <sv:property sv:name="link" sv:type="String">
+        <sv:value>https://www.eclerxdigital.com/2018/06/29/ama-webcast-a-holistic-approach-to-b2b-personalization/</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2018-12-25T21:19:39.754+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2018-12-25T21:19:39.754+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:template" sv:type="String">
+        <sv:value>withTheme:components/advertisement-component</sv:value>
+      </sv:property>
+    </sv:node>
+    <sv:node sv:name="02">
+      <sv:property sv:name="jcr:primaryType" sv:type="Name">
+        <sv:value>mgnl:component</sv:value>
+      </sv:property>
+      <sv:property sv:name="jcr:uuid" sv:type="String">
+        <sv:value>cee7e559-4c4d-4fc0-97bd-38504e6f0275</sv:value>
+      </sv:property>
+      <sv:property sv:name="image" sv:type="String">
+        <sv:value>jcr:81c1230e-f12f-4b1d-807f-8fff5f8337a6</sv:value>
+      </sv:property>
+      <sv:property sv:name="link" sv:type="String">
+        <sv:value>https://www.eclerxdigital.com/2018/11/14/on-demand-webinar-demystifying-artificial-intelligence/</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:created" sv:type="Date">
+        <sv:value>2018-12-25T21:20:57.995+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:createdBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+        <sv:value>2018-12-25T21:20:57.995+05:30</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+        <sv:value>superuser</sv:value>
+      </sv:property>
+      <sv:property sv:name="mgnl:template" sv:type="String">
+        <sv:value>withTheme:components/advertisement-component</sv:value>
+      </sv:property>
+    </sv:node>
+  </sv:node>
+</sv:node>
+

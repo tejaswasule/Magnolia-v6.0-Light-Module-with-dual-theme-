@@ -1,0 +1,4 @@
+title: header-component
+renderType: freemarker
+templateScript: /withTheme/templates/components/header-component.ftl
+dialog: withTheme:components/header-component

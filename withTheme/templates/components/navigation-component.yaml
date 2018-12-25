@@ -1,0 +1,4 @@
+title: navigation-component
+renderType: freemarker
+templateScript: /withTheme/templates/components/navigation-component.ftl
+dialog: withTheme:components/navigation-component

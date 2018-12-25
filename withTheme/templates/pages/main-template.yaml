@@ -1,0 +1,29 @@
+title: main-template
+templateScript: /withTheme/templates/pages/main-template.ftl
+renderType: freemarker
+dialog: withTheme:pages/main-template
+visible: true
+
+areas:
+  
+  
+  navigationArea:
+    availableComponents:
+      navigation-component:
+        id: withTheme:components/navigation-component
+  footerArea:
+    availableComponents:
+      footer-component:
+        id: withTheme:components/footer-component
+  headerArea:
+    availableComponents:
+      header-component:
+        id: withTheme:components/header-component
+  articlesArea:
+    availableComponents:
+      article-component:
+        id: withTheme:components/article-component
+  advertisingArea:
+    availableComponents:
+      advertisement-component:
+        id: withTheme:components/advertisement-component

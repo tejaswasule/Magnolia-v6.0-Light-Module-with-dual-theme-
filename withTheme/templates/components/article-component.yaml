@@ -1,0 +1,4 @@
+title: article-component
+renderType: freemarker
+templateScript: /withTheme/templates/components/article-component.ftl
+dialog: withTheme:components/article-component

@@ -1,0 +1,26 @@
+cssFiles:
+  bootstrap:
+    addFingerPrint: true
+    link: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css
+    media: all
+  font:
+    addFingerPrint: true
+    link: https://fonts.googleapis.com/css?family=Roboto+Condensed:400
+    media: all
+  mainCss:
+    addFingerPrint: false
+    link: /withTheme/webresources/css/another-theme.css
+    media: all
+  
+
+jsFiles:
+  jquery:
+    addFingerPrint: true
+    link: https://code.jquery.com/jquery-3.3.1.min.js
+  bootstrap:
+    addFingerPrint:true
+    link:https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js  
+
+
+imaging: 
+  #Imaging variations configuration

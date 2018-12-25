@@ -1,0 +1,4 @@
+title: advertisement-component
+renderType: freemarker
+templateScript: /withTheme/templates/components/advertisement-component.ftl
+dialog: withTheme:components/advertisement-component
