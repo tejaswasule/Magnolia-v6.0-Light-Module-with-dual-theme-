@@ -1,0 +1,1 @@
+# Magnolia-v6.0-Light-Module-with-dual-theme-
