@@ -1,7 +1,7 @@
 # Magnolia-v6.0-Light-Module-with-dual-theme-
 
 
-#Step 1 : Install magnolia cli (https://documentation.magnolia-cms.com/display/DOCS60/Magnolia+CLI)
+#Step 1 : Install NODE JS and magnolia cli (https://documentation.magnolia-cms.com/display/DOCS60/Magnolia+CLI)
 
 #Step 2 : Use 'mgnl jumpstart' cmd command to install magnolia
 
